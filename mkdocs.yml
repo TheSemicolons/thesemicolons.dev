@@ -1,0 +1,16 @@
+site_name: TheSemicolons System Documentation
+site_url: https://thesemicolons.dev/
+theme:
+  features:
+    - content.tabs.link
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+  include_search_page: false
+  search_index_only: true
+  name: material
+  palette:
+    accent: red
+    primary: blue grey
+    scheme: default
