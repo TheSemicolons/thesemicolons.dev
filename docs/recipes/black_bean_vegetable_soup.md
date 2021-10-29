@@ -9,7 +9,7 @@
 * Prep: 15 minutes
 * Cook: 35 minutes
 * Inactive: 0 minutes
-* 
+
 ## Ingredients
 
 * 1 Tablespoon Vegetable Oil

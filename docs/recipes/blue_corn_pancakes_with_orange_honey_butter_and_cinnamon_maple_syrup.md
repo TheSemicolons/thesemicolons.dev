@@ -9,7 +9,7 @@
 * Prep: 10 minutes
 * Cook: 20 minutes
 * Inactive: 0 minutes
-* 
+
 ## Ingredients
 
 ### Pancakes
