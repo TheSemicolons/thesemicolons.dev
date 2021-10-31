@@ -27,7 +27,7 @@
 
 ### Potatoes
 
-* Preheat oven to 375F (190C).
+* Preheat oven to 375&deg; F (190&deg; C).
 * Bake potatoes on sheet pan until very soft, about 75 minutes.
 * When cool, peel and mash.
 
@@ -39,7 +39,7 @@
 
 ### Serving
 
-* 30 minutes before serving preheat oven to 425F (220C).
+* 30 minutes before serving preheat oven to 425&deg; F (220&deg; C).
 * Place potatoes in baking dish, cover with foil and bake 20 minutes.
 * Uncover, dot with remaining butter and sugar.
 * Broil until brown and crusty.

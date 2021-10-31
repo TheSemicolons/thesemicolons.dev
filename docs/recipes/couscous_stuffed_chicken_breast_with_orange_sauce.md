@@ -79,7 +79,7 @@
 
 ### Chicken
 
-* Preheat oven to 400F (205C).
+* Preheat oven to 400&deg; F (205&deg; C).
 * Start at the top of the breast and carefully make a lengthwise cut from top to bottom, making a pocket about 2 inches long.
 * When couscous is cool enough to handle, spoon couscous mixture into pocket.
 * Even out stuffing by gently moving it around with your hands.

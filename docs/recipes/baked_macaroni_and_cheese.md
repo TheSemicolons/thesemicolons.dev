@@ -35,7 +35,7 @@
 
 ### Preheat
 
-* Preheat oven to 350F (175C)
+* Preheat oven to 350&deg; F (175&deg; C)
 
 ### Pasta
 

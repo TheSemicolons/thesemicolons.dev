@@ -31,7 +31,7 @@
 
 ### Preheat
 
-* Preheat oven to 350F (175C).
+* Preheat oven to 350&deg; F (175&deg; C).
 * Butter a 9" by 9" glass baking dish, using extra butter, and set aside.
 
 ### Oat Mixture

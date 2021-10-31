@@ -32,7 +32,7 @@
 
 ## Directions}\par}
 
-* Preheat oven to 400F (205C).
+* Preheat oven to 400&deg; F (205&deg; C).
 * Heat oil in a large skillet over medium heat.
 * Add onion and garlic, saute 2 minutes.
 * Add chicken and saute 5 minutes, until golden brown and cooked through.
