@@ -22,7 +22,7 @@
 * 1/4 Cup Mirin
 * 1/4 Cup Soy Sauce
 * 3 Cups Chicken Stock
-* 1/2 Cup Cilantro Leaves 
+* 1/2 Cup Cilantro Leaves
 * Salt
 
 ## Preparation

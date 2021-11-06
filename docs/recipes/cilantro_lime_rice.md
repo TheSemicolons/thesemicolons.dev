@@ -16,7 +16,7 @@
 * 2 1/4 Teaspoons Salt
 * 1 Bay Leaf
 * 1 Teaspoon Olive Oil
-* 2 Tablespoons Cilantro 
+* 2 Tablespoons Cilantro
 * 2 Tablespoons Lime Juice
 * 1 Tablespoon Lemon Juice
 

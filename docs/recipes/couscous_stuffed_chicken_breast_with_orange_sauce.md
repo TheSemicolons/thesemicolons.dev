@@ -8,7 +8,7 @@
 * Total: 40 minutes
 * Prep: 15 minutes
 * Cook: 25 minutes
-* Inactive: 
+* Inactive: 0 minutes
 
 ## Ingredients
 

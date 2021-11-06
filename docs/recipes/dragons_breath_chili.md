@@ -29,7 +29,7 @@
 * 2 Teaspoons Cayenne Pepper
 * 2 Teaspoons Ground Coriander
 * 2 Teaspoons Ground Cumin
-* 2 Teaspoons Granulated Garlic 
+* 2 Teaspoons Granulated Garlic
 * 2 Teaspoons Granulated Onion
 * 2 Teaspoons Hot Paprika
 * 2 Teaspoons Salt

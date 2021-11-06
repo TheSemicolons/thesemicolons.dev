@@ -16,7 +16,7 @@
 * 1 Cup Uncooked Long-Grain Rice
 * 1 Teaspoon Garlic Salt
 * 1/2 Teaspoon Ground Cumin
-* 1/4 Cup Onion 
+* 1/4 Cup Onion
 * 1/2 Cup Tomato Sauce
 * 2 Cups Chicken Broth
 

@@ -37,7 +37,7 @@
 
 ## Directions
 
-### Dipping Sauce  
+### Dipping Sauce
 
 * In a food processor, combine sour cream, mayonnaise, sun dried tomatoes, red bell peppers, lime juice, 1/2 teaspoon black pepper, 1 teaspoon salt, white wine, and minced garlic.
 * Puree, cover, and refrigerate for one hour.

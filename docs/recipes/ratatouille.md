@@ -24,7 +24,7 @@
 * 1 1/2 Cups Tomatoes
 * 1 Tablespoon Fresh Basil
 * 1 Tablespoon Fresh Parsley
-* Black Pepper  
+* Black Pepper
 * Salt
 
 ## Preparation
