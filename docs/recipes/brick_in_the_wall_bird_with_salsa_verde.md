@@ -66,6 +66,6 @@
 * Coat chicken with rub, under the skin and inside the cavity.
 * Heat a large saute pan over medium high heat, with oil, and place chicken skin side down.
 * Place another large saute pan on top of the chicken, and place the 4 bricks inside the top pan.
-* Cook on medium high heat for 7 to 10 minutes on both sides, or until internal temperature reaches  165&deg; F (75&deg; C).
+* Cook on medium high heat for 7 to 10 minutes on both sides, or until internal temperature reaches  165^o F (75^o C).
 * Remove chicken to a cutting board and let rest 5 minutes before slicing.
 * Serve immediately with salsa verde.

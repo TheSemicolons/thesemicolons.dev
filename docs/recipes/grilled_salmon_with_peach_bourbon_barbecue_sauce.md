@@ -60,7 +60,7 @@
 * Preheat grill to medium heat.
 * Brush salmon on all sides with olive oil, season with salt and pepper.
 * Place salmon on the grill and cook for about 2 minutes.
-* Turn salmon 45&deg; and cook for an additional 2 minutes.
+* Turn salmon 45^o and cook for an additional 2 minutes.
 * Flip salmon over and cook for an additional 2 minutes, or until cooked through.
 * During the last few minutes of cooking, brush salmon with barbecue sauce.
 

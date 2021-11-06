@@ -99,7 +99,7 @@
 * Place turkey on the grill, rub side down.
 * Grill until slightly charred and a crust has formed, about 4 to 5 minutes.
 * Reduce heat on the grill to medium.
-* Turn turkey over and continue cooking with the lid closed for 30 to 40 minutes, or until internal temperature reads 155&deg; F (70&deg; C).
+* Turn turkey over and continue cooking with the lid closed for 30 to 40 minutes, or until internal temperature reads 155^o F (70^o C).
 * Remove from heat, loosely tent with foil and let rest for 10 minutes.
 * Slice into 1/2 inch thick slices.
 

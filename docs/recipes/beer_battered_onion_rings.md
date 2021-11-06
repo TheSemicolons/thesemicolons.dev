@@ -48,7 +48,7 @@
 
 ### Beer Batter
 
-* In a dutch oven, heat oil to 350&deg; F (175&deg; C).
+* In a dutch oven, heat oil to 350^o F (175^o C).
 * Combine 1 cup flour, remaining salt, black pepper, and garlic, mix thoroughly.
 * In a medium bowl combine beer and 1 cup flour, mix thoroughly.
 * Remove onion rings from buttermilk, shake off excess, and dredge in flour.

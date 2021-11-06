@@ -26,7 +26,7 @@
 
 ## Directions
 
-* Preheat oven to 350&deg; F (175&deg; C).
+* Preheat oven to 350^o F (175^o C).
 * Places potato wedges in a bowl and toss with oil.
 * Add garlic, onion, paprika, cumin, and seasoned salt.
 * Toss to coat.

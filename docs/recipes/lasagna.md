@@ -33,7 +33,7 @@
 
 ## Directions
 
-* Preheat oven to 350&deg; F (175&deg; C).
+* Preheat oven to 350^o F (175^o C).
 * In a large saucepan cook ground turkey, onion, and garlic in oil.
 * Add sauce and simmer for 15 minutes.
 * In a medium bowl, mix ricotta, 1 cup mozzarella, parmesan cheese and eggs.

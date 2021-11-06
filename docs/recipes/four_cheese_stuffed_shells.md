@@ -38,7 +38,7 @@
 
 ## Directions
 
-* Preheat oven to 450&deg; F (230&deg; C).
+* Preheat oven to 450^o F (230^o C).
 * Bring a large pot of water to a boil.
 * Salt water and add pasta.
 * Cook shells 12 to 15 minutes, they should be softened but still undercooked at the centre.

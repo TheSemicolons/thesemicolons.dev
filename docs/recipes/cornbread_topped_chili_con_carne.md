@@ -98,7 +98,7 @@
 
 ### Combine And Bake
 
-* Preheat oven to 425&deg; F (220&deg; C).
+* Preheat oven to 425^o F (220^o C).
 * Pour chili into a large, wide dish.
 * Pour cornbread topping over chili, as evenly as possible.
 * Sprinkle cheese over the top and bake for 30 minutes, or until cornbread has risen, is golden brown, and the chili is bubbling.

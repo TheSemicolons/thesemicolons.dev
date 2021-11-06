@@ -88,12 +88,12 @@
 
 * Cut potatoes into 1/3 inch slices and then slice into 1/3 inch sticks.
 * Fill a large bowl with water and soak the potatoes, submerged, at least 30 minutes.
-* Heat canola oil in a heavy stockpot to 325&deg; F (165&deg; C).
+* Heat canola oil in a heavy stockpot to 325^o F (165^o C).
 * Remove potatoes from water and pat dry.
 * Carefully place potatoes in the hot oil, there should be at least 1 inch of oil above them.
 * Parcook until the potatoes are light brown, 5 to 7 minutes.
 * Remove potatoes, gently shake off excess oil and let drain on a rack.
-* Once all potatoes are cooked, raise the heat of the oil to 350&deg; F (175&deg; C).
+* Once all potatoes are cooked, raise the heat of the oil to 350^o F (175^o C).
 * Cook potatoes again, until golden brown, about 2 minutes.
 * Remove potatoes, gently shake off excess oil and place in a bowl.
 * Lightly sprinkle with salt and pepper.

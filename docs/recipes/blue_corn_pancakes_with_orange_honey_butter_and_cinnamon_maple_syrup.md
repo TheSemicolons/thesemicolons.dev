@@ -72,7 +72,7 @@
 ### Pancakes
 
 * Preheat a nonstick griddle.
-* Preheat oven to 200&deg; F (95&deg; C).
+* Preheat oven to 200^o F (95^o C).
 * Mix dry ingredients together in medium bowl.
 * Beat eggs and 1 1/2 cups milk in separate medium bowl until combined.
 * Stir melted butter into eggs and milk.

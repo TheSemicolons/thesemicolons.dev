@@ -52,6 +52,6 @@
 * Remove 1/4 of beer from the can.
 * Sit chicken on top of the beer can.
 * Place chicken in the center of the hot grill and cover.
-* Cook chicken for 1 to 1 1/2 hours, or until 165&deg; F (75&deg; C) internally.
+* Cook chicken for 1 to 1 1/2 hours, or until 165^o F (75^o C) internally.
 * Once cooked, cover loosely with foil and let rest for 10 minutes.
 * Carve and serve immediately.

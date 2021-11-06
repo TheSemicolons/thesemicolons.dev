@@ -27,7 +27,7 @@
 
 ### Preheat
 
-* Preheat oven to 350&deg; F (175&deg; C).
+* Preheat oven to 350^o F (175^o C).
 
 ### Casserole
 

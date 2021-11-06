@@ -30,7 +30,7 @@
 
 ### Pie Crust
 
-* Preheat oven to 350&deg; F (175&deg; C).
+* Preheat oven to 350^o F (175^o C).
 * Combine crushed chocolate wafers and melted butter.
 * Press onto the bottom and up the sides of a 9 inch pie pan.
 * Bake in the oven for 10 minutes.

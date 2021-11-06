@@ -36,7 +36,7 @@
 
 ### Preheat
 
-* Preheat oven to 375&deg; F (190&deg; C).
+* Preheat oven to 375^o F (190^o C).
 
 ### Pasta
 

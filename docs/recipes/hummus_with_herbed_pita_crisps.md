@@ -52,7 +52,7 @@
 
 ### Pita Crisps
 
-* Preheat oven to 400&deg; F (205&deg; C).
+* Preheat oven to 400^o F (205^o C).
 * In a food processor, combine butter and herbs.
 * Pulse until well combined.
 * Spread herb butter onto pita slices.
