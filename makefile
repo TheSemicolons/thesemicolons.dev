@@ -24,7 +24,7 @@ VERSION   = 0.1
 all: site
 
 install: site
-	rsync -ahv --delete site/ vanir:/home/www/htdocs/thesemicolons.dev
+	rsync -ahv --delete site/ web0.thesemicolons.dev:/home/www/htdocs/thesemicolons.dev
 
 site:
 	mkdocs build
