@@ -23,14 +23,14 @@
 * 4 8" Flour Tortillas
 * 1 1/3 Cup Shredded Cheese
 
-## Preparation}\par}
+## Preparation
 
 * Chop Onion
 * Cube Chicken (1" Cubes)
 * Rinse And Drain Black Beans
 * Chop Cilantro
 
-## Directions}\par}
+## Directions
 
 * Preheat oven to 400^o F (205^o C).
 * Heat oil in a large skillet over medium heat.

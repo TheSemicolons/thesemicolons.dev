@@ -10,7 +10,7 @@
 * Cook: 90 minutes
 * Inactive: 10 minutes
 
-## Ingredients}
+## Ingredients
 
 ### Beer Can Chicken Rub
 
