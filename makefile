@@ -13,8 +13,6 @@
 # OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 # PERFORMANCE OF THIS SOFTWARE.
 #
-#CFLAGS  = -fpic -I/usr/local/include
-#LDFLAGS = -L/usr/local/lib
 
 .POSIX:
 .SUFFIXES:
@@ -24,7 +22,7 @@ VERSION   = 0.1
 all: site
 
 install: site
-	rsync -ahv --delete site/ web0.thesemicolons.dev:/home/www/htdocs/thesemicolons.dev
+	openrsync -av --delete site/ web0.thesemicolons.dev:/home/www/htdocs/thesemicolons.dev
 
 site:
 	mkdocs build
