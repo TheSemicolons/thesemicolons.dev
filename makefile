@@ -26,7 +26,7 @@ install: site
 
 site:
 	mkdocs build
-	find site -type f -exec gzip -k {} \;
+	find site -type f -exec gzip -fk {} \;
 
 clean:
 	rm -Rf site
