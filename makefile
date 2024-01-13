@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2022 James Anderson <thesemicolons@protonmail.com>
+# Copyright (c) 2024 James Anderson <thesemicolons@protonmail.com>
 #
 # Permission to use, copy, modify, and distribute this software for any purpose
 # with or without fee is hereby granted, provided that the above copyright
@@ -19,12 +19,12 @@
 
 VERSION   = 0.1
 
-all: site
+all: install
 
-install: site
-	openrsync -av --delete site/ web0.thesemicolons.dev:/home/www/htdocs/thesemicolons.dev
+install: build
+	openrsync -av --delete site/ web0.mimas.dev:/home/www/htdocs/thesemicolons.dev
 
-site:
+build:
 	mkdocs build
 	find site -type f -exec gzip -fk {} \;
 
