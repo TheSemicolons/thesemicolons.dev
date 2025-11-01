@@ -19,8 +19,10 @@
 * 1 15oz Can Black Beans
 * 1 15oz Can Kidney Beans
 * 1 15oz Can Pinto Beans
+* 1 6oz Can Whole Large Black Olives
 * 1 14.5oz Can Petite Diced Tomatoes
 * 1 15oz Can Whole Kernel Corn
+* 1 7oz Can Medium Diced Green Chiles
 * 3 Tablespoons Garlic
 * 18oz Shredded Cheese
 * 18 Tortillas
